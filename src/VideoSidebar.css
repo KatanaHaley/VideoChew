@@ -1,0 +1,33 @@
+.videoSidebar {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  color: rgb(255, 255, 255);
+  filter: invert(1);
+
+}
+
+.videoSidebar_button {
+    padding: 20px;
+    text-align: center;
+}
+
+.label {
+  background-color: indigo;
+  color: white;
+  padding: 0.5rem;
+  font-family: sans-serif;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+.musicVideo {
+  animation: spinTheRecord infinite 5s linear;
+  height: 33px;
+  width: 40px;
+  position: absolute;
+  bottom: 22em;
+  right: 6%;
+  padding-right: 0;
+}

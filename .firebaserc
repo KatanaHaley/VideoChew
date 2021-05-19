@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "videochew-b30cf"
+  },
+  "targets": {
+    "videochew-b30cf": {
+      "hosting": {
+        "storage": [
+          "videochew-b30cf"
+        ]
+      }
+    }
+  }
+}
